@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Writing Sample - Jericho</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fffefc;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+      color: #333;
+      line-height: 1.8;
+    }
+    h1 {
+      color: #111;
+    }
+    p {
+      margin-bottom: 20px;
+    }
+    blockquote {
+      font-style: italic;
+      color: #555;
+      border-left: 4px solid #ccc;
+      padding-left: 15px;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Managing Time as a Freelancer (Without Losing Your Mind)</h1>
+
+  <p>If you’ve been freelancing for a while, you probably already know that time can feel… weird. Some days, you’re super productive by 9AM. Other days, it’s already 5PM and you haven’t even started.</p>
+
+  <p><strong>That’s the thing about freelancing.</strong> You’ve got the freedom, but with that comes the constant battle to manage your time — and yourself.</p>
+
+  <h2>Let’s be real: freedom isn’t always easy.</h2>
+
+  <p>People think freelancing means working whenever you want, wherever you want. And yes, that’s partly true. But no one tells you how hard it is to <em>stay focused</em> when there's no one checking in on you — no office, no boss, no pressure… except your deadlines.</p>
+
+  <p>I’ve had days when I’d tell myself, “I’ll just take a short break,” and suddenly it’s nighttime and the client’s waiting for an update. Not ideal.</p>
+
+  <h2>What’s helped me? Simple systems, not strict schedules.</h2>
+
+  <p>Personally, I’m not a big fan of rigid routines. What worked for me was building a <strong>light structure</strong> that fits how I naturally work. Some things I stick to:</p>
+
+  <ul>
+    <li>Mornings for deep work (writing, coding, design)</li>
+    <li>Afternoons for admin stuff and client messages</li>
+    <li>One main task per day. That’s it. If I finish more, great. If not, at least I hit the big one.</li>
+  </ul>
+
+  <p>I also try to <em>group similar tasks</em> together so I don’t switch focus too much — context switching is a silent productivity killer.</p>
+
+  <h2>Deadlines are your friend (most of the time)</h2>
+
+  <p>One trick that keeps me going: I set mini-deadlines for myself even if the client gives a longer one. So if something’s due Friday, I aim for Wednesday. It gives me room to breathe — or revise if needed.</p>
+
+  <p>It’s not about rushing, it’s about managing energy. Because once burnout hits? Everything slows down.</p>
+
+  <h2>Rest is part of the job</h2>
+
+  <p>Sounds cliché, but I had to learn this the hard way. Skipping meals, working until 2AM, saying yes to every project — it all adds up. And when you crash, no amount of productivity tips will help.</p>
+
+  <p>So now, I treat <strong>rest</strong> like a task. Walks. Power naps. Playing with the dog. Logging off for dinner. It’s all part of the balance.</p>
+
+  <h2>Final Thoughts</h2>
+
+  <p>Freelancing is a constant adjustment. There’s no “perfect” time management strategy that fits everyone. You figure it out as you go. You tweak, you fail, you try again.</p>
+
+  <blockquote>Don’t manage your time like a robot. Manage it like a real person — with goals, yes, but also with life happening in between.</blockquote>
+
+  <p><strong>– Jericho Santiago Miralles</strong><br>
+  Freelancer, creative, and still learning every day.</p>
+</body>
+</html>
+"""
